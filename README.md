@@ -1,1 +1,1 @@
-
+This is a just like a Newsletter for getting the horoscope daily in your email. It uses an API to get the horoscope and sends it to your email. You can also schedule the time at which you want to receive the email. It is a simple project done in Node.js. 
